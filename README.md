@@ -27,12 +27,12 @@
     * [Mosquitto Broker (Add-on)](docs/infrastructure/home-assistant/add-ons/mosquitto-broker-add-on.md)
     * [ZeroTier](docs/infrastructure/home-assistant/add-ons/zerotier.md)
     * [Visual Code Server](docs/infrastructure/home-assistant/add-ons/visual-code-server.md)
-* [ESP-8266](docs/infrastructure/esp-8266/)
-  * [Wire](docs/infrastructure/esp-8266/wire.md)
-  * [SPIFFS](docs/infrastructure/esp-8266/spiffs.md)
-  * [WiFiManager](docs/infrastructure/esp-8266/wifimanager.md)
-  * [ESP-NOW](docs/infrastructure/esp-8266/esp-now.md)
-  * [PubSubClient](docs/infrastructure/esp-8266/pubsubclient.md)
+* [ESP-32](docs/infrastructure/esp-32/)
+  * [Wire](docs/infrastructure/esp-32/wire.md)
+  * [SPIFFS](docs/infrastructure/esp-32/spiffs.md)
+  * [WiFiManager](docs/infrastructure/esp-32/wifimanager.md)
+  * [ESP-NOW](docs/infrastructure/esp-32/esp-now.md)
+  * [PubSubClient](docs/infrastructure/esp-32/pubsubclient.md)
 
 ## Architecture
 
