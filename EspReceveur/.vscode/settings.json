@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "sstream": "cpp",
+        "*.tcc": "cpp",
+        "exception": "cpp",
+        "optional": "cpp",
+        "memory": "cpp",
+        "istream": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "iomanip": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "functional": "cpp",
+        "limits": "cpp",
+        "streambuf": "cpp",
+        "ctime": "cpp",
+        "numeric": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp"
+    }
+}
